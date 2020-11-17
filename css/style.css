@@ -3,7 +3,7 @@
 html{
     font-size: 62.5%;
     /*l'image de font*/
-    background:#222 url(/asset/01.png)no-repeat fixed center center / cover;
+    background: url(/asset/01.png)no-repeat fixed center center / cover;
     scroll-behavior: smooth; /* défile lentement lorsque l'on clique dasn le sommaire*/
 }
 body{
